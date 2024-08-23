@@ -1340,23 +1340,23 @@
                                 </div>
                                 <div class="streamedge-Footer-contact-phone">
                                     <i class="fa-regular fa-envelope email-icon"></i>
-                                                                        <p><a href="mailto:stay@streamedgesakleshpur.com" class="text-light">stay@streamedgesakleshpur.com</a></p>
+                                                                        <p><a href="mailto:elevenkutaisi@gmail.com" class="text-light">elevenkutaisi@gmail.com</a></p>
 
                                 </div>
                                 <div class="Footer-social-Media-icons ">
-                                    <a target="_blank" href="https://www.instagram.com/streamedge_sakleshpur/">
+                                    <a target="_blank" href="">
                                         <i class="fa-brands fa-instagram"></i>
                                     </a>
-                                    <a target="_blank" href="https://www.facebook.com/streamedgesakleshpura/">
+                                    <a target="_blank" href="">
                                         <i class="fa-brands fa-facebook"></i>
                                     </a>
-                                   <a target="_blank" href="https://in.pinterest.com/streamedge/">
+                                   <a target="_blank" href="">
                                     <i class="fa-brands fa-pinterest"></i>
                                    </a>
-                                    <a target="_blank" href="https://www.linkedin.com/company/streamedge-sakleshpur/">
+                                    <a target="_blank" href="">
                                         <i class="fa-brands fa-linkedin-in"></i>
                                     </a>
-                                   <a target="_blank" href="https://www.youtube.com/@streamedgesakleshpurresort2491">
+                                   <a target="_blank" href="">
                                     <i class="fa-brands fa-youtube"></i>
                                    </a>
                                 </div>
@@ -1433,8 +1433,8 @@
             </div>
             <hr>
             <div class="StreamEdge-Rooms-copyrights text-center">
-                <a href="https://www.hirolainfotech.com">
-                    <p>© 2024 Streamedge Homestay. All Rights Reserved | Designed By Hirola InfoTech Solutions</p>
+                <a href="">
+                    <p>© 2024 Eleven Guesthouse. All Rights Reserved | Designed By Friends from India &#10084</p>
                 </a>
             </div>
         </div>
