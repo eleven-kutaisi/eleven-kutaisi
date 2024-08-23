@@ -158,10 +158,10 @@
                             <div class="navbar-home-mobile-icon">
                                 <img src="/assets/images/phoneicon.webp" alt="">
                             </div>
-                            <p>+91 98451 20977</p>
+                            <p>+995 599 30 40 55</p>
                         </div>
                         <button class="btn btn-danger" type="submit"><a class="text-light"
-                                href="https://wa.me/9845120977">RESERVATION</a></button>
+                                href="https://wa.me/995571718271">RESERVATION</a></button>
                     </form>
                 </div>
             </div>
@@ -1335,7 +1335,7 @@
                                 <div class="streamedge-Footer-contact-phone">
                                     <i class="fa-solid fa-mobile-screen phone-icon"></i>
                                     <div>
-                                        <p><a class="text-light" href="tel:+91 98451 20977">+91 98451 20977</a> / <a class="text-light" href="tel:+91 94825 72680">+91 94825 72680</a></p>
+                                        <p><a class="text-light" href="tel:+995 599 30 40 55">+995 599 30 40 55</a> / <a class="text-light" href="tel:+995 599 30 40 55">+995 599 30 40 55</a></p>
                                     </div>
                                 </div>
                                 <div class="streamedge-Footer-contact-phone">
