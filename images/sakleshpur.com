@@ -1340,7 +1340,7 @@
                                 </div>
                                 <div class="streamedge-Footer-contact-phone">
                                     <i class="fa-regular fa-envelope email-icon"></i>
-                                                                        <p><a href="mailto:stay@streamedgesakleshpur.com" class="text-light">stay@streamedgesakleshpur.com</a></p>
+                                                                        <p><a href="mailto:elevenkutaisi@gmail.com" class="text-light">elevenkutaisi@gmail.com</a></p>
 
                                 </div>
                                 <div class="Footer-social-Media-icons ">
@@ -1433,8 +1433,8 @@
             </div>
             <hr>
             <div class="StreamEdge-Rooms-copyrights text-center">
-                <a href="https://www.hirolainfotech.com">
-                    <p>© 2024 Streamedge Homestay. All Rights Reserved | Designed By Hirola InfoTech Solutions</p>
+                <a href="">
+                    <p>© 2024 Eleven Guesthouse. All Rights Reserved | Designed By Friends from India &#10084</p>
                 </a>
             </div>
         </div>
