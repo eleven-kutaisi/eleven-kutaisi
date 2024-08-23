@@ -114,7 +114,7 @@
             <div class="container rounded">
                 <a class="navbar-brand" href="index.html">
                     <div class="SteamEdge-logo">
-                        <img src="./assets/images/.webpstreamedge-logo" alt="">
+                        <img src="./assets/images/streamedge-logo.webp" alt="">
                     </div>
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
